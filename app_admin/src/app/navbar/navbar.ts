@@ -23,4 +23,3 @@ public onLogout(): void {
 return this.authenticationService.logout();
 }
 }
-export class Navbar {}
